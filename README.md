@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ScreenShots
 
-![Alt text](/1.jpg?raw=true "Login Screen")
+![Alt text](/1.jpeg?raw=true "Login Screen")
 
 https://user-images.githubusercontent.com/53563490/64631137-f0bc9700-d40f-11e9-8949-ed60fcbd8c4c.jpeg
 https://user-images.githubusercontent.com/53563490/64631138-f1552d80-d40f-11e9-82d3-218e3530155f.jpeg
