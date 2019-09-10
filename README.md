@@ -2,6 +2,16 @@
 
 Two pages application developed in flutter
 
+1) Login Screen
+=> Initial login info
+=> Input fields
+=> Social login (not included)
+
+2) Drag n Drop Screen
+=> Fixed card
+=> Attachable Items
+=> Confirmation
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
