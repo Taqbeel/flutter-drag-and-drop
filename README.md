@@ -9,10 +9,9 @@ This project is a starting point for a Flutter application.
 ScreenShots
 
 ![Alt text](/1.jpeg?raw=true "Login Screen")
+![Alt text](/2.jpeg?raw=true "Drag n Drop Screen 1")
+![Alt text](/3.jpeg?raw=true "Drag n Drop Screen 2")
 
-https://user-images.githubusercontent.com/53563490/64631137-f0bc9700-d40f-11e9-8949-ed60fcbd8c4c.jpeg
-https://user-images.githubusercontent.com/53563490/64631138-f1552d80-d40f-11e9-82d3-218e3530155f.jpeg
-https://user-images.githubusercontent.com/53563490/64631139-f1552d80-d40f-11e9-93ae-8493187b6818.jpeg
 
 A few resources to get you started if this is your first Flutter project:
 
